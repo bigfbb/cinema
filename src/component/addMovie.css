@@ -1,0 +1,25 @@
+.MovieInput{
+    width: 80%;
+    padding: 12px 20px;
+    margin: 8px 0;
+    display: inline-block;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+    box-sizing: border-box;
+    text-align: center;
+}
+input[type=submit] {
+    width: 80%;
+    background-color:rgb(92, 82, 122);
+    color: white;
+    padding: 14px 20px;
+    margin: 8px 0;
+    border: none;
+    border-radius: 4px;
+    cursor: pointer;
+  }
+
+  #movieForm{
+    margin-left: auto;
+
+}

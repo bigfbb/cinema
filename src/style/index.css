@@ -1,0 +1,8 @@
+@import "./App.css";
+@import "./footer.css";
+@import "./header.css";
+@import "./index.css";
+@import "/src/component/showMovies.css";
+@import "/src/component/modal/modal.css";
+@import "/src/component/addMovie.css";
+@import "/src/component/movies.css"

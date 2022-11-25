@@ -1,0 +1,8 @@
+#movieCard{
+    border: 2px rgb(139, 90, 90) solid;
+    display: flex;
+    width: fit-content;
+    align-items: center;
+    justify-content: center;
+
+}

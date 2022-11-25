@@ -1,0 +1,35 @@
+body {
+  background-color: #f0e7e7;
+  width: 100%;
+  margin: 0;
+}
+
+#AddMovie  {
+  background-color: #0e062d;
+  color: rgb(253, 250, 254);
+  padding: 35px 62px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 24px;
+  border-radius: 12px;
+  color: 1a191f;
+  margin: auto 40%;
+  align-items: center;
+}
+#lom{
+color: #484652;
+text-align: center;
+
+}
+
+
+#bilDiv{
+  width: 100%;
+}
+
+#ib{
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+}
